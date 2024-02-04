@@ -17,10 +17,10 @@ This repository contains my implementation of a churn analysis project using Apa
 Check out the insightful visualizations included in this project:
 
 - **Tenure vs Total Charges Relationship**: Explore the correlation between tenure (months) and total charges ($) using a scatter plot.
-  ![Tenure vs Total Charges Relationship](/path/to/tenure_vs_total_charges.png)
+  ![Tenure vs Total Charges Relationship](TenureVsCharges.png)
 
 - **Churn Count Distribution**: Understand the distribution of churn among customers using a bar chart.
-  ![Churn Count Distribution](/path/to/churn_count_distribution.png)
+  ![Churn Count Distribution](ChurnCountDistribution.png)
 
 ## Evaluation Metrics
 
