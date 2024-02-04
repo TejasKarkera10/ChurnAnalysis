@@ -2,7 +2,7 @@
 
 🚀 Welcome to my Spark churn analysis project repository! 📊
 
-This repository contains my implementation of a churn analysis project using Apache Spark. Leveraging Spark's distributed computing capabilities, I've explored a telecommunications dataset to understand customer churn behavior. 
+This repository contains my implementation of a churn analysis project using Apache Spark. Leveraging Spark's distributed computing capabilities, I've explored a telecommunications dataset to understand customer churn behavior. The analysis and modeling were conducted using Databricks, harnessing its powerful features for seamless data processing and machine learning tasks.
 
 ## Key Components
 
@@ -24,4 +24,4 @@ Check out the insightful visualizations included in this project:
 
 ## Evaluation Metrics
 
-Evaluation metrics like Accuracy and Area Under the ROC curve are used to assess model performance. This project showcases the power of Spark for scalable data analysis and machine learning tasks, making it a valuable resource for understanding and implementing churn analysis workflows. 🌟
+Evaluation metrics like accuracy and area under the ROC curve are used to assess model performance. This project showcases the power of Spark for scalable data analysis and machine learning tasks, making it a valuable resource for understanding and implementing churn analysis workflows. 🌟
