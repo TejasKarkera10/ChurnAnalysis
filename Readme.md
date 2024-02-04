@@ -24,4 +24,4 @@ Check out the insightful visualizations included in this project:
 
 ## Evaluation Metrics
 
-Evaluation metrics like accuracy and area under the ROC curve are used to assess model performance. This project showcases the power of Spark for scalable data analysis and machine learning tasks, making it a valuable resource for understanding and implementing churn analysis workflows. 🌟
+Evaluation metrics like Accuracy and Area Under the ROC curve are used to assess model performance. This project showcases the power of Spark for scalable data analysis and machine learning tasks, making it a valuable resource for understanding and implementing churn analysis workflows. 🌟
